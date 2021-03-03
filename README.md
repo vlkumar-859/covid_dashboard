@@ -13,3 +13,4 @@
  
 # SAMPLE IMAGES
 ![image_1](https://github.com/vlkumar-859/covid_dashboard/blob/main/image1.png)
+![image_2](https://github.com/vlkumar-859/covid_dashboard/blob/main/image.png)
