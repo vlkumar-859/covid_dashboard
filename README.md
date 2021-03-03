@@ -6,4 +6,10 @@
  2 . V Lohit Kumar (19pa1a05i3)
   
 # OBJECTIVE
-DF
+ Created a dash board using google data studio on covid data set taken from kaggle.From this dash board we can see the insights in the data set.
+ 
+# LINK TO OUR DASH BOARD
+ https://datastudio.google.com/u/1/reporting/ef2048fa-cada-460d-826d-90293dcae2da/page/FJizB
+ 
+# SAMPLE IMAGES
+
