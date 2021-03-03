@@ -12,4 +12,4 @@
  https://datastudio.google.com/u/1/reporting/ef2048fa-cada-460d-826d-90293dcae2da/page/FJizB
  
 # SAMPLE IMAGES
-
+![image_1](https://github.com/vlkumar-859/covid_dashboard/blob/main/image1.png)
