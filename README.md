@@ -8,8 +8,9 @@
 # OBJECTIVE
  Created a dash board using google data studio on covid data set taken from kaggle.From this dash board we can see the insights in the data set.
  
- #DATA RESOURCES USED
- https://www.kaggle.com/sudalairajkumar/covid19-in-india
+ # DATA RESOURCES USED
+ https://www.kaggle.com/sudalairajkumar/covid19-in-india 
+ 
  https://github.com/owid/covid-19-data/tree/master/public/data
  
 # LINK TO OUR DASH BOARD
