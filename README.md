@@ -1,4 +1,4 @@
-# covid_dashboard
+# COVID DASHBOARD
 
 # TEAM MEMBERS 
  1 . M H S S Ganesh Babu (19pa1a05b3)
